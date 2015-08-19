@@ -2,7 +2,9 @@
 
 A slack plug-in for various Slash Commands.
 At the moment, supported Slash Command included:
-* /youtube [keyword]
+
+* `/youtube [keyword]`
+
 Future features are in development. Stay tune for more supported Slash Commands
 
 # Usage
