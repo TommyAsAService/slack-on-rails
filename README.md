@@ -7,6 +7,8 @@ At the moment, supported Slash Command included:
 
 Future features are in development. Stay tune for more supported Slash Commands
 
+![](http://zippy.gfycat.com/SoulfulInnocentEsok.gif)
+
 # Usage
 
 Just type `/youtube [keywords]` to your slack and a cloned bot of yourself will post random Youtube link based on the keywords.
